@@ -10,3 +10,11 @@
 
 Також є обробка виняткових ситуацій (відсутність Інтернету, некоректні дані і т.п.).
 ![alt text](https://github.com/Vokalhe/TestProjectForGOVuaAPI/blob/master/1.jpg)
+![alt text](https://github.com/Vokalhe/TestProjectForGOVuaAPI/blob/master/2.jpg)
+![alt text](https://github.com/Vokalhe/TestProjectForGOVuaAPI/blob/master/3.jpg)
+![alt text](https://github.com/Vokalhe/TestProjectForGOVuaAPI/blob/master/4I.jpg)
+![alt text](https://github.com/Vokalhe/TestProjectForGOVuaAPI/blob/master/5.jpg)
+![alt text](https://github.com/Vokalhe/TestProjectForGOVuaAPI/blob/master/6.jpg)
+![alt text](https://github.com/Vokalhe/TestProjectForGOVuaAPI/blob/master/7.jpg)
+![alt text](https://github.com/Vokalhe/TestProjectForGOVuaAPI/blob/master/8.jpg)
+![alt text](https://github.com/Vokalhe/TestProjectForGOVuaAPI/blob/master/9.jpg)
