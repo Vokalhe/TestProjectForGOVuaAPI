@@ -9,3 +9,4 @@
 
 
 Також є обробка виняткових ситуацій (відсутність Інтернету, некоректні дані і т.п.).
+![alt text](https://github.com/Vokalhe/TestProjectForGOVuaAPI/blob/master/1.jpg)
